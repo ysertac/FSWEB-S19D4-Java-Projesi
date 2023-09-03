@@ -27,7 +27,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * dao paketi altına ```EmployeeRepository``` interfaceini oluşturmalısınız.
  * Bu sınıflarda tüm crud işlemleri yapılabilmeli.
  * findByEmail metodu ile email adresi verilen çalışan bulunabilmeli.
- * findBySalary metodu ile verilen salary parametresinden daha yüksek salary miktarına sahip çalışanlar çekilebilmeli.
+ * findBySalary metodu ile verilen salary parametresinden daha yüksek salary miktarına sahip çalışanlar maaşlarına göre azalan sırada çekilebilmeli.
  * findByOrder metodu ile çalışanlar soyadlarına göre alfabetik olarak sıralanabilmeli.
 
 ### Görev 3
